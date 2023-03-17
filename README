@@ -1,0 +1,3 @@
+Fun example of how bazel treats list mutability in starlark
+
+Try running //:cat_list and //:cat_list_py :)
